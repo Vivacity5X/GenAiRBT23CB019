@@ -1,0 +1,14 @@
+Job Title: Java Backend Developer
+
+Required Skills:
+Java, Spring Boot, REST APIs, SQL, MySQL, Object-Oriented Programming, and Git.
+
+Preferred Skills:
+Microservices, Docker, AWS, and automated testing.
+
+Responsibilities:
+1. Develop and maintain backend services.
+2. Build REST APIs.
+3. Work with relational databases.
+4. Write maintainable code.
+5. Collaborate with the software development team.

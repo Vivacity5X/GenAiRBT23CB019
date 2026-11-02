@@ -1,0 +1,21 @@
+Candidate Name: Alex Sharma
+
+Professional Summary:
+Computer Science graduate interested in backend software development.
+
+Technical Skills:
+Java, Python, SQL, MySQL, Spring Boot, REST APIs, Git, Object-Oriented Programming, Data Structures, and Algorithms.
+
+Projects:
+
+1. Music Playlist Application
+Developed a backend application using Java and Spring Boot. Implemented REST APIs and database operations.
+
+2. Movie Management System
+Developed a CRUD application using Python, Flask, and MySQL.
+
+Education:
+Bachelor of Technology in Computer Science.
+
+Experience:
+Academic projects and practical software development experience.
